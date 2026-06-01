@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Aaliyan 👋
 
-<!--
-**aaliyann-exe/aaliyann-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Front-End Developer & Software Engineering Intern. I focus on clean code, responsive design, and pixel-perfect layouts.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+* **Core:** Vue.js • TypeScript • JavaScript
+* **Styling:** Tailwind CSS • Modern CSS • Sass CSS
+* **Responsive First:** If it doesn't look perfect on every screen size, it isn't finished.
+
+---
+
+### 🎯 Current Focus
+
+* Building highly responsive, custom Vue.js web applications.
+* Preparing for undergraduate engineering studies.
+
+---
+
+### 📫 Connect
+
+[![LinkedIn](https://shields.io)]([https://linkedin.com/](https://www.linkedin.com/in/aaliyan-amjad/))
