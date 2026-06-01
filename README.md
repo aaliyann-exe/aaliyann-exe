@@ -1,24 +1,22 @@
 # Hi, I'm Aaliyan 👋
 
-Junior Front-End Developer & Software Engineering Intern. I focus on clean code, responsive design, and pixel-perfect layouts.
+Junior Front-End Developer & Software Engineering Intern. I build clean, responsive, and pixel-perfect web interfaces.
 
 ---
 
 ### 💻 Tech Stack
 
-* **Core:** Vue.js • TypeScript • JavaScript
-* **Styling:** Tailwind CSS • Modern CSS • Sass CSS
-* **Responsive First:** If it doesn't look perfect on every screen size, it isn't finished.
+**Frontend:**  
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+**Styling:**  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
 ---
 
-### 🎯 Current Focus
+### 📫 Connect With Me
 
-* Building highly responsive, custom Vue.js web applications.
-* Preparing for undergraduate engineering studies.
-
----
-
-### 📫 Connect
-
-[![LinkedIn](https://shields.io)]([https://linkedin.com/](https://www.linkedin.com/in/aaliyan-amjad/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaliyan-amjad/)
