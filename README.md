@@ -21,7 +21,4 @@ Junior Front-End Developer & Software Engineering Intern. I build clean, respons
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaliyan-amjad/)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaliyann-exe&show_icons=true&theme=tokyonight&count_private=true" alt="Aaliyan's GitHub Stats" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyann-exe&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="190" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aaliyann-exe&theme=dark&hide_border=true)
