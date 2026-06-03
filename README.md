@@ -20,4 +20,4 @@ Junior Front-End Developer & Software Engineering Intern. I build clean, respons
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaliyan-amjad/)
 
-![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=aaliyann-exe&theme=light&hide_border=true](https://streak-stats.demolab.com/?user=aaliyann-exe&theme=light&hide_border=true))
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aaliyann-exe&theme=light&hide_border=true)
