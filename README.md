@@ -1,6 +1,6 @@
 # Hi, I'm Aaliyan 👋
 
-Junior Front-End Developer & Software Engineering Intern. I build clean, responsive, and pixel-perfect web interfaces.
+Software Engineer in love with Front-End. I build clean, responsive, and pixel-perfect web interfaces.
 
 ---
 
@@ -8,6 +8,7 @@ Junior Front-End Developer & Software Engineering Intern. I build clean, respons
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
